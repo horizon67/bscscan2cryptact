@@ -2,7 +2,9 @@
 
 Convert from [BscScan](https://bscscan.com/) Transaction Details to [cryptact CSV format](https://support.cryptact.com/hc/ja/articles/360002571312-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90%E6%96%B9%E6%B3%95
 ).
-(Only SELL is supported
+
+* Only SELL is supported.
+* The exchange is fixed at [PancakeSwap](https://exchange.pancakeswap.finance/#/swap).
 
 ## Installation
 
